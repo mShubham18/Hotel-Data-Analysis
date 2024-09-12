@@ -45,7 +45,7 @@ During the Exploratory Data Analysis of the Dataset, the following finding were 
 - In this section, After gathering insights about ADR (Average Daily Rate) In Both the hotels, It can be observed that ADR is greated in Resort Hotel when compared to City Hotel
 - The graph below gives insights about the ADR comparison between Resort and City Hotel
 
-    <img src="Resources/ADR-ratio-by-hotel.png" width="700" height="500">
+    <img src="Resources/ADR-ratio-by-hotel.png">
 
 ### Reservation status by Month
 - By further gaining insight about Reservation status, both cancelled and not cancelled, by month, Our hypothesis is observed to be closer than Actual situation.
@@ -53,11 +53,11 @@ During the Exploratory Data Analysis of the Dataset, the following finding were 
 - After further Analyzing the graph, It can be observed that the hotel experiences `fewer cancellations in August and September`.
 - whereas, the hotels experience `Large cancellations in January`.
 
-    <img src="Resources\reserv-stat-per-month.png" width="700" height="500">
+    <img src="Resources\reserv-stat-per-month.png">
 
 - From the graph below, this statement appears to be more precise as `in January, the Hotels experience most cancellations` and `In September, They experience fewest cancellations`
 
-    <img src="Resources/ADR-per-month.png" width="500" height="300">
+    <img src="Resources/ADR-per-month.png">
 
 ### TOP-10 countries with max cancellations
 - Now, that we know about the months of most cancellations, we can dive deeper into regions where most cancellations are done.
@@ -67,13 +67,13 @@ On the basis of this hypothesis, Here are some suggestions for the Hotel facilit
   - Hotels in Portugal should be equipped with latest and better facilities to curate customers.
   - Promotional discounts must be held to inrease customer reach.
 
-    <img src="Resources\most-cancelation-top10-country.png" width="500" height="500">
+    <img src="Resources\most-cancelation-top10-country.png">
 
 ### Customers medium of reach
 - It is important to know the mediums which are adopted by the customers to book their reservations as they play a major role in analyzing the root cause of the problem.
 - The graph below precisely visualized this information by conluding that `most of the customers book do their reservations via Online Travel Agents`
 
-    <img src="Resources\customer-reach-by-market-segment.png" width="700" height="500">
+    <img src="Resources\customer-reach-by-market-segment.png">
 
 ### ADR resultings
 - All of our above analysis throw limelight on the supporting causes of the problem that conlcude that there might be a parameter that is causing a surge in cancellation every once in a while.
